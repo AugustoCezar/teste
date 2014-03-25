@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/android-sdk/eclipse/eclipse
+Name=Android Developers Tools
+Icon=/opt/android-sdk/eclipse/icon.png

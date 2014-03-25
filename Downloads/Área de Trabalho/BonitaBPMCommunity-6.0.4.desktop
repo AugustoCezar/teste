@@ -1,0 +1,12 @@
+
+					[Desktop Entry]
+					Version=1.0
+					Encoding=UTF-8
+					Name=BonitaBPMCommunity-6.0.4
+					GenericName=BonitaBPMCommunity-6.0.4
+					Comment=Starts Bonita BPM Community
+					Exec=/opt/BonitaBPMCommunity-6.0.4/BonitaBPMCommunity
+					Icon=/opt/BonitaBPMCommunity-6.0.4/bonitasoft-icon-128-128-transparent.png
+					Terminal=false
+					Type=Application
+				

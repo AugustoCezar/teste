@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[pt_BR]=
+Comment=
+Exec=/opt/idea-IU-133.331/bin/idea.sh
+GenericName[pt_BR]=
+GenericName=
+Icon=/opt/idea-IU-133.331/bin/idea.png
+MimeType=
+Name[pt_BR]=InteliJ IDEA
+Name=InteliJ IDEA
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

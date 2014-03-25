@@ -1,0 +1,6 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Exec=/opt/ganttproject-2.6.2-r1544/ganttproject
+Name=ganttproject
+Icon=/opt/ganttproject-2.6.2-r1544/ganttproject_icon.png

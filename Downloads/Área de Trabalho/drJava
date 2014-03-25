@@ -1,0 +1,6 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Exec=java -jar /opt/drJava/drjava-stable-20130901-r5756.jar
+Name=drJava
+Icon=/opt/drJava/drJava_icon.png
